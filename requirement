@@ -1,1 +1,13 @@
+high level requirements:
 
+a)item details
+b)item costs
+c)customer details
+
+Low level requirements:
+
+a)quantity of the items 
+b)total cost of the items
+c)Gst,discounts,offers
+d)additon operator
+e)subtraction operator
